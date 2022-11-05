@@ -244,6 +244,7 @@
     <Content Include="Content\assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="Content\assets\img\testimonials\testimonials-5.jpg" />
     <Content Include="Content\assets\img\tonsing.png" />
+    <Content Include="Content\assets\img\tonsingclear.png" />
     <Content Include="Content\assets\Index.html" />
     <Content Include="Content\assets\js\main.js" />
     <Content Include="Content\assets\vendor\aos\aos.css" />
