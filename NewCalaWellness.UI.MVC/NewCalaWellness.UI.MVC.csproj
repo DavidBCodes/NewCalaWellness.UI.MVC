@@ -184,7 +184,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\assets\css\style.css" />
-    <Content Include="Content\assets\img\about.jpg" />
     <Content Include="Content\assets\img\android-chrome-192x192.png" />
     <Content Include="Content\assets\img\android-chrome-512x512.png" />
     <Content Include="Content\assets\img\apple-touch-icon.png" />
@@ -205,7 +204,10 @@
     <Content Include="Content\assets\img\blog\comments-4.jpg" />
     <Content Include="Content\assets\img\blog\comments-5.jpg" />
     <Content Include="Content\assets\img\blog\comments-6.jpg" />
+    <Content Include="Content\assets\img\Cala Wellness %285%29.png" />
     <Content Include="Content\assets\img\Cala Wellness.png" />
+    <Content Include="Content\assets\img\CalaWellnessNew%282%29.png" />
+    <Content Include="Content\assets\img\CalaWellnessNew.png" />
     <Content Include="Content\assets\img\calla.png" />
     <Content Include="Content\assets\img\callaupdated.png" />
     <Content Include="Content\assets\img\clients\client-1.png" />
@@ -219,15 +221,7 @@
     <Content Include="Content\assets\img\favicon-16x16.png" />
     <Content Include="Content\assets\img\favicon-32x32.png" />
     <Content Include="Content\assets\img\favicon.ico" />
-    <Content Include="Content\assets\img\favicon.png" />
-    <Content Include="Content\assets\img\features-2.png" />
-    <Content Include="Content\assets\img\features-3.png" />
-    <Content Include="Content\assets\img\features.png" />
-    <Content Include="Content\assets\img\footer-bg.png" />
-    <Content Include="Content\assets\img\hero-bg.png" />
-    <Content Include="Content\assets\img\hero-img.png" />
     <Content Include="Content\assets\img\hero-img.svg" />
-    <Content Include="Content\assets\img\logo.png" />
     <Content Include="Content\assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-3.jpg" />
@@ -237,10 +231,6 @@
     <Content Include="Content\assets\img\portfolio\portfolio-7.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-8.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-9.jpg" />
-    <Content Include="Content\assets\img\pricing-business.png" />
-    <Content Include="Content\assets\img\pricing-free.png" />
-    <Content Include="Content\assets\img\pricing-starter.png" />
-    <Content Include="Content\assets\img\pricing-ultimate.png" />
     <Content Include="Content\assets\img\smiley.png" />
     <Content Include="Content\assets\img\talking.png" />
     <Content Include="Content\assets\img\team-shape.svg" />
@@ -254,9 +244,6 @@
     <Content Include="Content\assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="Content\assets\img\testimonials\testimonials-5.jpg" />
     <Content Include="Content\assets\img\tonsing.png" />
-    <Content Include="Content\assets\img\values-1.png" />
-    <Content Include="Content\assets\img\values-2.png" />
-    <Content Include="Content\assets\img\values-3.png" />
     <Content Include="Content\assets\Index.html" />
     <Content Include="Content\assets\js\main.js" />
     <Content Include="Content\assets\vendor\aos\aos.css" />
