@@ -184,6 +184,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\assets\css\style.css" />
+    <Content Include="Content\assets\img\2.png" />
+    <Content Include="Content\assets\img\3.png" />
+    <Content Include="Content\assets\img\4.png" />
+    <Content Include="Content\assets\img\5.png" />
     <Content Include="Content\assets\img\android-chrome-192x192.png" />
     <Content Include="Content\assets\img\android-chrome-512x512.png" />
     <Content Include="Content\assets\img\apple-touch-icon.png" />
@@ -233,6 +237,7 @@
     <Content Include="Content\assets\img\portfolio\portfolio-9.jpg" />
     <Content Include="Content\assets\img\smiley.png" />
     <Content Include="Content\assets\img\talking.png" />
+    <Content Include="Content\assets\img\talking2.jpg" />
     <Content Include="Content\assets\img\team-shape.svg" />
     <Content Include="Content\assets\img\team\team-1.jpg" />
     <Content Include="Content\assets\img\team\team-2.jpg" />
@@ -456,6 +461,7 @@
     <Content Include="Content\assets\vendor\remixicon\remixicon.woff2" />
     <Content Include="Content\assets\vendor\swiper\swiper-bundle.min.js.map" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile1.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
