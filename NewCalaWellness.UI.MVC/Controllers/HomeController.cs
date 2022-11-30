@@ -11,10 +11,9 @@ namespace NewCalaWellness.UI.MVC.Controllers
         }
 
         [HttpGet]
-        [Authorize]
-        public ActionResult About()
+        public ActionResult AboutUs()
         {
-            ViewBag.Message = "Your app description page.";
+            ViewBag.Message = "About Us.";
 
             return View();
         }
@@ -23,6 +22,34 @@ namespace NewCalaWellness.UI.MVC.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Therapy()
+        {
+            ViewBag.Message = "Therapy";
+
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Services()
+        {
+            ViewBag.Message = "Services";
+
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Testimonials()
+        {
+            ViewBag.Message = "Testimonials";
+
+            return View();
+        }
+        [HttpGet]
+        public ActionResult Pricing()
+        {
+            ViewBag.Message = "Coming Soon";
 
             return View();
         }

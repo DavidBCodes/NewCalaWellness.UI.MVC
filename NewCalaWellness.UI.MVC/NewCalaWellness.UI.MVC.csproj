@@ -191,6 +191,10 @@
     <Content Include="Content\assets\img\android-chrome-192x192.png" />
     <Content Include="Content\assets\img\android-chrome-512x512.png" />
     <Content Include="Content\assets\img\apple-touch-icon.png" />
+    <Content Include="Content\assets\img\bio1.png" />
+    <Content Include="Content\assets\img\bio2.png" />
+    <Content Include="Content\assets\img\bio3.png" />
+    <Content Include="Content\assets\img\bio4.png" />
     <Content Include="Content\assets\img\blog\blog-1.jpg" />
     <Content Include="Content\assets\img\blog\blog-2.jpg" />
     <Content Include="Content\assets\img\blog\blog-3.jpg" />
@@ -212,7 +216,6 @@
     <Content Include="Content\assets\img\Cala Wellness.png" />
     <Content Include="Content\assets\img\CalaWellnessNew%282%29.png" />
     <Content Include="Content\assets\img\CalaWellnessNew.png" />
-    <Content Include="Content\assets\img\calla.png" />
     <Content Include="Content\assets\img\callaupdated.png" />
     <Content Include="Content\assets\img\clients\client-1.png" />
     <Content Include="Content\assets\img\clients\client-2.png" />
@@ -235,9 +238,6 @@
     <Content Include="Content\assets\img\portfolio\portfolio-7.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-8.jpg" />
     <Content Include="Content\assets\img\portfolio\portfolio-9.jpg" />
-    <Content Include="Content\assets\img\smiley.png" />
-    <Content Include="Content\assets\img\talking.png" />
-    <Content Include="Content\assets\img\talking2.jpg" />
     <Content Include="Content\assets\img\team-shape.svg" />
     <Content Include="Content\assets\img\team\team-1.jpg" />
     <Content Include="Content\assets\img\team\team-2.jpg" />
@@ -486,7 +486,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_OriginalLayout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\UsersAdmin\Index.cshtml" />
@@ -562,6 +561,10 @@
     <Content Include="_Archive\assets\vendor\remixicon\remixicon.woff2" />
     <Content Include="_Archive\assets\vendor\swiper\swiper-bundle.min.js.map" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\AboutUs.cshtml" />
+    <Content Include="Views\Home\Services.cshtml" />
+    <Content Include="Views\Home\Testimonials.cshtml" />
+    <Content Include="Views\Home\Pricing.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

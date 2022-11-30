@@ -61,14 +61,20 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#therapy">Therapy</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Life Coaching</a></li>
-                    <li><a class="nav-link scrollto" href="#pricing">Coming Soon</a></li>
-                    <li><a class="nav-link scrollto" href="#faq">F.A.Q.</a></li>
-                    <li><a class="nav-link scrollto" href="#clients">Testimonials</a></li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <a href=@Url.Action("Index", "Home")>Home</a>
+                    <li>@Html.ActionLink("About Us", "AboutUs", "Home")</li>
+                    <li>@Html.ActionLink("Services", "Services", "Home")</li>
+                    <li>@Html.ActionLink("F.A.Q./Coming Soon", "Pricing", "Home")</li>
+                    <li>@Html.ActionLink("Testimonials", "Testimonials", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    @*<li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+        <li><a class="nav-link scrollto" href="#AboutUs">About</a></li>
+        <li><a class="nav-link scrollto" href="#therapy">Therapy</a></li>
+        <li><a class="nav-link scrollto" href="#services">Life Coaching</a></li>
+        <li><a class="nav-link scrollto" href="#pricing">Coming Soon</a></li>
+        <li><a class="nav-link scrollto" href="#faq">F.A.Q.</a></li>
+        <li><a class="nav-link scrollto" href="#clients">Testimonials</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>*@
                     @*<li><a class="getstarted scrollto" href="#about">Get Started</a></li>*@
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -1173,7 +1179,7 @@
         </main><!-- End #main -->*@
 
 
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    @*<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>*@
 
     <!-- Vendor JS Files -->
     <script src="~/Content/assets/vendor/purecounter/purecounter_vanilla.js"></script>
